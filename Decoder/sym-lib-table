@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SN74HC04N")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/symbols/SN74HC04N.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74HC32N")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/symbols/SN74HC32N.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74HC74N")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/symbols/SN74HC74N.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74HC86N")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/symbols/SN74HC86N.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74HC08N")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/symbols/SN74HC08N.kicad_sym")(options "")(descr ""))
+)
