@@ -250,7 +250,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "LEC Chaser.kicad_pro",
+    "filename": "Latching ON OFF.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -410,7 +410,7 @@
   },
   "sheets": [
     [
-      "d5a78625-8aee-42ee-8122-1963fca38a84",
+      "df2e5bdf-91de-4715-bf9e-5aab71a434b2",
       "Root"
     ]
   ],
